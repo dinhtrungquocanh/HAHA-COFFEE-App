@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>PayPal JS SDK Standard Integration</title>
+        <style>
+            /* Center the content */
+            body {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                height: 100vh;
+                margin: 0;
+                background-color: #f9f9f9;
+                font-family: Arial, sans-serif;
+            }
+
+            #image-container {
+                text-align: center;
+                margin-bottom: 20px;
+            }
+
+            #paypal-button-container {
+                width: 400px; /* Adjust the width as needed */
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Image above the buttons -->
+        <div id="image-container">
+            <img src="hero-size-mobile-up-v3.jpg" alt="PayPal Card" width="300" />
+        </div>
+
+        <!-- PayPal Button Container -->
+        <div id="paypal-button-container"></div>
+        <p id="result-message"></p>
+
+        <!-- Initialize the JS-SDK -->
+        <script
+            src="https://www.paypal.com/sdk/js?client-id=AWkbI-OnjWoVb3LRAjC-PkoYUVVyZwmjK1VuaUQSPF6aSf1ErVnZnR5wc3rjU0Dt-dv5WG-ikY9fja2C&buyer-country=US&currency=USD&components=buttons&enable-funding=venmo,paylater,card"
+            data-sdk-integration-source="developer-studio"
+        ></script>
+        <script>
+            paypal.Buttons().render("#paypal-button-container");
+        </script>
+    </body>
+</html>
+
+
+

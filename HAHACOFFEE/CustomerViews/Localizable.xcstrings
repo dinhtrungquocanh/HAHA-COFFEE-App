@@ -1,0 +1,1826 @@
+{
+  "sourceLanguage" : "vi",
+  "strings" : {
+    "" : {
+
+    },
+    "#%@" : {
+      "shouldTranslate" : false
+    },
+    "%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        }
+      }
+    },
+    "%lld Sản phẩm" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld Product(s)"
+          }
+        }
+      }
+    },
+    "%lld VNĐ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld VNĐ"
+          }
+        }
+      }
+    },
+    "Admin: Phuong An" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Admin: Phương An"
+          }
+        }
+      }
+    },
+    "Administrator Profile" : {
+
+    },
+    "Adminstrators Info" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adminstrators Info"
+          }
+        }
+      }
+    },
+    "Back" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back"
+          }
+        }
+      }
+    },
+    "BÁN CHẠY NHẤT ✨" : {
+      "comment" : "Localized string for bestsellers",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BESTSELLERS ✨"
+          }
+        }
+      }
+    },
+    "Bạn chưa có tài khoản?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yet to sign-up?"
+          }
+        }
+      }
+    },
+    "Bạn chưa đăng nhập." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You haven’t logged in. "
+          }
+        }
+      }
+    },
+    "Bạn có chắc chắn muốn hủy đơn hàng này không?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to delete this order?"
+          }
+        }
+      }
+    },
+    "Bạn có chắc muốn xóa sản phẩm này không?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to delete this product?"
+          }
+        }
+      }
+    },
+    "Bạn đã có tài khoản?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Already have an account?"
+          }
+        }
+      }
+    },
+    "Bạn muốn đăng ký trở thành: " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You want to sign up as: "
+          }
+        }
+      }
+    },
+    "Bản quyền © HAHA Coffee. Mọi quyền được bảo lưu." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © HAHA Coffee All Rights Reserved."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bản quyền © HAHA Coffee. Mọi quyền được bảo lưu."
+          }
+        }
+      }
+    },
+    "Bạn uống gì?" : {
+      "comment" : "Localization.strings\n  HAHACOFFEE\n\n  Created by SEIU iMac 4 on 03/12/2024.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What's your sip?"
+          }
+        }
+      }
+    },
+    "BESTSELLERS ✨" : {
+      "comment" : "Localized string for bestsellers",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BÁN CHẠY NHẤT ✨"
+          }
+        }
+      }
+    },
+    "Biển số xe: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "License Plate:  "
+          }
+        }
+      }
+    },
+    "CÀ PHÊ" : {
+      "comment" : "Localized string for coffee",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "COFFEE"
+          }
+        }
+      }
+    },
+    "Canceled" : {
+
+    },
+    "Chào mừng, Shipper!" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome, Shipper!"
+          }
+        }
+      }
+    },
+    "Chi tiết đơn hàng" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Order Details"
+          }
+        }
+      }
+    },
+    "Chọn địa chỉ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose your address "
+          }
+        }
+      }
+    },
+    "Chọn địa chỉ lấy hàng:" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "choose your pick-up location "
+          }
+        }
+      }
+    },
+    "Chọn mức đá" : {
+      "comment" : "OrderView2",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose ice level"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chọn mức đá"
+          }
+        }
+      }
+    },
+    "Chọn mức đường" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose sugar level"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chọn mức đường"
+          }
+        }
+      }
+    },
+    "Chọn ngôn ngữ" : {
+      "comment" : "Language screen",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose your language"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chọn ngôn ngữ"
+          }
+        }
+      }
+    },
+    "Choose The Category" : {
+
+    },
+    "Choose your language" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose your language"
+          }
+        }
+      }
+    },
+    "Chương trình bắt đầu từ ngày 01/09 đến hết ngày 30/09, quý khách tạo tại khoản HAHA Coffee sẽ được giảm 20% trên 1 đơn nước." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From 01/09 to 30/09, customers who create an account at HAHA Coffee will receive a 20% discount on one drink order."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chương trình bắt đầu từ ngày 01/09 đến hết ngày 30/09, quý khách tạo tại khoản HAHA Coffee sẽ được giảm 20% trên 1 đơn nước."
+          }
+        }
+      }
+    },
+    "Chương trình khuyến mãi tháng 9" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "September's Sales Event"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chương trình khuyến mãi tháng 9"
+          }
+        }
+      }
+    },
+    "Clear" : {
+
+    },
+    "Close" : {
+
+    },
+    "Cỡ: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Size:"
+          }
+        }
+      }
+    },
+    "Completed" : {
+
+    },
+    "Copyright © HAHA Coffee All Rights Reserved." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © HAHA Coffee All Rights Reserved."
+          }
+        }
+      }
+    },
+    "Đá bình thường" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regular ice"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đá bình thường"
+          }
+        }
+      }
+    },
+    "Đã giao" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shipped"
+          }
+        }
+      }
+    },
+    "Đá: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ice:"
+          }
+        }
+      }
+    },
+    "Đăng ký" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign up"
+          }
+        }
+      }
+    },
+    "Đăng nhập" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log in "
+          }
+        }
+      }
+    },
+    "Đăng nhập " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log in"
+          }
+        }
+      }
+    },
+    "Đăng nhập ngay" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log in now"
+          }
+        }
+      }
+    },
+    "Đăng Nhập/Đăng Ký" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign-In/Sign-Up "
+          }
+        }
+      }
+    },
+    "Đang tải địa chỉ..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Address Loading…"
+          }
+        }
+      }
+    },
+    "Đang tải..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading…"
+          }
+        }
+      }
+    },
+    "Đang tìm sản phẩm..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Searching item…"
+          }
+        }
+      }
+    },
+    "Đăng xuất" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log Out"
+          }
+        }
+      }
+    },
+    "DÀNH CHO BẠN ✨" : {
+      "comment" : "Localized string for for you",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FOR YOU ✨"
+          }
+        }
+      }
+    },
+    "Danh sách đơn hàng" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "List Of Orders"
+          }
+        }
+      }
+    },
+    "Đặt hàng" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Order"
+          }
+        }
+      }
+    },
+    "Delivering" : {
+
+    },
+    "Địa chỉ giao hàng:" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delivery Address:"
+          }
+        }
+      }
+    },
+    "Distance: %@ km" : {
+
+    },
+    "Đơn hàng của bạn" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your order"
+          }
+        }
+      }
+    },
+    "Đường: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sugar:"
+          }
+        }
+      }
+    },
+    "Email: phuongan@example.com" : {
+
+    },
+    "English 🇬🇧" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "English 🇬🇧"
+          }
+        }
+      }
+    },
+    "EVENTS ✨" : {
+      "comment" : "Localized string for program",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SỰ KIỆN ✨"
+          }
+        }
+      }
+    },
+    "Fetching locations..." : {
+
+    },
+    "FOR YOU ✨" : {
+      "comment" : "Localized string for for you",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DÀNH CHO BẠN ✨"
+          }
+        }
+      }
+    },
+    "FRUIT TEA" : {
+      "comment" : "Localized string for fruit tea",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TRÀ TRÁI CÂY"
+          }
+        }
+      }
+    },
+    "Gần nhất: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nearest:"
+          }
+        }
+      }
+    },
+    "Ghé lấy" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Take-away"
+          }
+        }
+      }
+    },
+    "Giá: %lld VNĐ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Price:"
+          }
+        }
+      }
+    },
+    "Giao hàng" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delivery"
+          }
+        }
+      }
+    },
+    "GIAO HÀNG" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DELIVERY"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GIAO HÀNG"
+          }
+        }
+      }
+    },
+    "Giỏ hàng" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cart "
+          }
+        }
+      }
+    },
+    "Giỏ hàng của bạn trống" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your cart is currently empty"
+          }
+        }
+      }
+    },
+    "Giỏ hàng của bạn trống!" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your cart is currently empty!"
+          }
+        }
+      }
+    },
+    "HAHA đang tới rồi nè!" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HAHA is on the way!"
+          }
+        }
+      }
+    },
+    "HAHA khao!" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HAHA treat!"
+          }
+        }
+      }
+    },
+    "Hi" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hi "
+          }
+        }
+      }
+    },
+    "Hiện tất cả" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show All"
+          }
+        }
+      }
+    },
+    "Hình thức nhận hàng" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reception Method"
+          }
+        }
+      }
+    },
+    "Hình thức nhận hàng:" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reception Method: "
+          }
+        }
+      }
+    },
+    "Hour" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hour"
+          }
+        }
+      }
+    },
+    "Hubble Tea" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hubble Tea"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hubble Tea"
+          }
+        }
+      }
+    },
+    "Hủy" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel "
+          }
+        }
+      }
+    },
+    "Hủy đơn hàng" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel your order"
+          }
+        }
+      }
+    },
+    "Ice: %@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ice:"
+          }
+        }
+      }
+    },
+    "Ingredients: " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingredients: "
+          }
+        }
+      }
+    },
+    "Ít đá" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Light ice"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ít đá"
+          }
+        }
+      }
+    },
+    "Ít ngọt" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Less sweetness"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ít ngọt"
+          }
+        }
+      }
+    },
+    "Không đá" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No ice"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không đá"
+          }
+        }
+      }
+    },
+    "Không tìm thấy sản phẩm nào." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No item found"
+          }
+        }
+      }
+    },
+    "Không tìm thấy sản phẩm nào..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No item found…"
+          }
+        }
+      }
+    },
+    "Kích cỡ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Size"
+          }
+        }
+      }
+    },
+    "Kích cỡ: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Size:"
+          }
+        }
+      }
+    },
+    "Kích cỡ: %@ | Đá: %@ | Đường: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Size: %1$@ | Ice: %2$@ | Sugar: %3$@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Kích cỡ: %1$@ | Đá: %2$@ | Đường: %3$@"
+          }
+        }
+      }
+    },
+    "Latitude: %lf" : {
+
+    },
+    "Latte" : {
+      "comment" : "Localized string for latte",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Latte"
+          }
+        }
+      }
+    },
+    "LATTE" : {
+      "comment" : "Localized string for latte",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LATTE"
+          }
+        }
+      }
+    },
+    "LẤY TẬN NƠI" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PICKUP"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LẤY TẬN NƠI"
+          }
+        }
+      }
+    },
+    "Loading..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading…"
+          }
+        }
+      }
+    },
+    "Lọc" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter"
+          }
+        }
+      }
+    },
+    "Lọc theo" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter by"
+          }
+        }
+      }
+    },
+    "Lọc theo loại nước" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter by category"
+          }
+        }
+      }
+    },
+    "Log out" : {
+
+    },
+    "Lỗi Đăng Nhập" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log-in Error"
+          }
+        }
+      }
+    },
+    "Longitude: %lf" : {
+
+    },
+    "Lượng đá: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ice:"
+          }
+        }
+      }
+    },
+    "Lượng đường: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SugarL"
+          }
+        }
+      }
+    },
+    "Mã đơn: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Order’s ID: "
+          }
+        }
+      }
+    },
+    "Menu" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menu"
+          }
+        }
+      }
+    },
+    "Mộccha Latte" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mộccha Latte"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mộccha Latte"
+          }
+        }
+      }
+    },
+    "MÓN NGON PHẢI THỬ ✨" : {
+      "comment" : "Localized string for must try",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MUST-TRY DELIGHT ✨"
+          }
+        }
+      }
+    },
+    "Most Trending Drinks" : {
+
+    },
+    "MUST-TRY DELIGHT✨" : {
+      "comment" : "Localized string for must try",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MÓN NGON PHẢI THỬ "
+          }
+        }
+      }
+    },
+    "N/A" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "N?A"
+          }
+        }
+      }
+    },
+    "Name: Phuong An" : {
+
+    },
+    "Ngọt bình thường" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regular sweetness"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngọt bình thường"
+          }
+        }
+      }
+    },
+    "Người nhận: %@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recipient: "
+          }
+        }
+      }
+    },
+    "Nhập địa chỉ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter Address "
+          }
+        }
+      }
+    },
+    "No drinks available." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No drinks available."
+          }
+        }
+      }
+    },
+    "No trending drinks available." : {
+
+    },
+    "OK" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "Order ngay" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Order now"
+          }
+        }
+      }
+    },
+    "Order ngay!" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Order now!"
+          }
+        }
+      }
+    },
+    "Order Status" : {
+
+    },
+    "Orders" : {
+
+    },
+    "Pending" : {
+
+    },
+    "Phương thức thanh toán:" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Payment Method: "
+          }
+        }
+      }
+    },
+    "Phương tiện: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vehicle: "
+          }
+        }
+      }
+    },
+    "Pickup" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pick up "
+          }
+        }
+      }
+    },
+    "Quay về trang chủ" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back to Home "
+          }
+        }
+      }
+    },
+    "Recent Orders" : {
+
+    },
+    "Role: Administrator" : {
+
+    },
+    "Sales Analytics" : {
+
+    },
+    "Sản phẩm" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Product(s)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sản phẩm"
+          }
+        }
+      }
+    },
+    "Search for a location" : {
+
+    },
+    "Search something" : {
+
+    },
+    "See all" : {
+
+    },
+    "Shipping Cost: %@ VND" : {
+
+    },
+    "Số điện thoại:" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phone Number: "
+          }
+        }
+      }
+    },
+    "Số lượng: %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quantity: %lld"
+          }
+        }
+      }
+    },
+    "Sorry! We are updating the English view." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sorry! We are updating the English view."
+          }
+        }
+      }
+    },
+    "Status" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status"
+          }
+        }
+      }
+    },
+    "SỰ KIỆN" : {
+      "comment" : "Localized string for events",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PROGRAMS"
+          }
+        }
+      }
+    },
+    "SỰ KIỆN ✨" : {
+      "comment" : "Localized string for program",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PROGRAMS ✨"
+          }
+        }
+      }
+    },
+    "TẤT CẢ SẢN PHẨM" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All Products "
+          }
+        }
+      }
+    },
+    "Tên khách hàng:" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Customer Name: "
+          }
+        }
+      }
+    },
+    "Tên nước: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drink Name: "
+          }
+        }
+      }
+    },
+    "Tên: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name:"
+          }
+        }
+      }
+    },
+    "Thành phần: bột matcha, sữa, syrup vanilla, nước." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingredients: matcha powder, milk, vanilla syrup, water."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thành phần: bột matcha, sữa, syrup vanilla, nước."
+          }
+        }
+      }
+    },
+    "Thành phần: trà đen, cam vàng, đào ngâm, sả tươi, hạt chia, nước cốt chanh tươi, puree đào, đá." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingredients: black tea, Navel orange, peach halves in syrup, fresh lemongrass, chia seeds, lemon juice, peach puree, ice."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thành phần: trà đen, cam vàng, đào ngâm, sả tươi, hạt chia, nước cốt chanh tươi, puree đào, đá."
+          }
+        }
+      }
+    },
+    "Thành phần: trà đen, chanh tươi, thiên thạch, đá." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingredients: black tea, fresh lemon, meteorite, ice."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thành phần: trà đen, chanh tươi, thiên thạch, đá."
+          }
+        }
+      }
+    },
+    "Thành phố Thủ Đức" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thu Duc City "
+          }
+        }
+      }
+    },
+    "Thêm địa chỉ ngay" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Address Now"
+          }
+        }
+      }
+    },
+    "Thêm vào giỏ hàng" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add to cart"
+          }
+        }
+      }
+    },
+    "Thời gian đặt: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Order’s Timestamp: "
+          }
+        }
+      }
+    },
+    "Thông tin cá nhân" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personal Infomation"
+          }
+        }
+      }
+    },
+    "Thông tin khách hàng:" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Customer’s Information:"
+          }
+        }
+      }
+    },
+    "Thông tin Shipper:" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shipper’s information"
+          }
+        }
+      }
+    },
+    "Thông tin Shipper.                                            " : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shipper’s Information."
+          }
+        }
+      }
+    },
+    "Thưởng thức vị Matcha Latte chuẩn chỉ, đem lại cảm giác dịu thanh, trải nghiệm ngay Mộc Cha Latte thật sự khó cưỡng." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enjoy the authentic gentle flavor of Matcha Latte, try out our irresistible Mộccha Latte."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thưởng thức vị Matcha Latte chuẩn chỉ, đem lại cảm giác dịu thanh, trải nghiệm ngay Mộc Cha Latte thật sự khó cưỡng."
+          }
+        }
+      }
+    },
+    "Tiếng Việt 🇻🇳" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếng Việt 🇻🇳"
+          }
+        }
+      }
+    },
+    "Tìm kiếm sản phẩm..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search for items…"
+          }
+        }
+      }
+    },
+    "Tổng cộng:" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total: "
+          }
+        }
+      }
+    },
+    "Tổng cộng: %lld VNĐ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total: "
+          }
+        }
+      }
+    },
+    "Trà Chanh Thái Dương" : {
+      "comment" : "Menu",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sunshine Lemontea"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trà Chanh Thái Dương"
+          }
+        }
+      }
+    },
+    "Trà Đào Cam Sả-turn" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sả-turn Orange Peach Tea"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trà Đào Cam Sả-turn"
+          }
+        }
+      }
+    },
+    "Trà Đen Marschiato" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marschiato Black Tea"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trà Đen Marschiato"
+          }
+        }
+      }
+    },
+    "TRÀ SỮA" : {
+      "comment" : "Localized string for milk tea",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MILK TEA"
+          }
+        }
+      }
+    },
+    "TRÀ TRÁI CÂY" : {
+      "comment" : "Localized string for fruit tea",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FRUIT TEA"
+          }
+        }
+      }
+    },
+    "Trạng thái: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status:"
+          }
+        }
+      }
+    },
+    "Unknown Tab" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown Tab"
+          }
+        }
+      }
+    },
+    "Vị chua và ngọt dịu đến từ sự kết hợp của cam và đào, cộng hưởng với hương thơm của sả sẽ khiến để lại ấn tượng khó quên như chiếc vòng của sao Thổ." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The sour and subtle sweetness from the dynamic duo of orange and peach, combined with the gentle aroma of lemongrass, will leave you with an unforgettable experience—just like seeing Saturn's rings for the first time."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vị chua và ngọt dịu đến từ sự kết hợp của cam và đào, cộng hưởng với hương thơm của sả sẽ khiến để lại ấn tượng khó quên như chiếc vòng của sao Thổ."
+          }
+        }
+      }
+    },
+    "Vị Marschiato độc đáo duy nhất có tại HAHA Coffee khiến mọi khách hàng đều muốn ghé mua thêm lần nữa." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The unique Marschiato flavor, available only at HAHA Coffee, keeps our customers coming back for more."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vị Marschiato độc đáo duy nhất có tại HAHA Coffee khiến mọi khách hàng đều muốn ghé mua thêm lần nữa."
+          }
+        }
+      }
+    },
+    "VND %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VND"
+          }
+        }
+      }
+    },
+    "VND:" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VND: "
+          }
+        }
+      }
+    },
+    "Welcome to HAHA4LIFE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to HAHA4LIFE"
+          }
+        }
+      }
+    },
+    "Xác nhận" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirm"
+          }
+        }
+      }
+    },
+    "Xác nhận đơn hàng" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Order confirmed"
+          }
+        }
+      }
+    },
+    "Xem giỏ hàng" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View Cart "
+          }
+        }
+      }
+    },
+    "Xem thêm" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "More"
+          }
+        }
+      }
+    },
+    "Xem trạng thái Order" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View Order Status"
+          }
+        }
+      }
+    },
+    "Xóa" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete "
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
